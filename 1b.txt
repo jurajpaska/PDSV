@@ -1,0 +1,8 @@
+# Komentar: zmazte riadok oznaceny --- REMOVE ME --- a pridajte zmeny do indexu. Pouzite git add -p a nasledne vyberte moznost 'a'
+Line1
+Line2
+Line3
+--- REMOVE ME ---
+Line4
+Line5
+Line6

@@ -1,0 +1,11 @@
+# remove first line starting with --- and make commit. Then remove also second line marked with --- and amend commit
+1
+2
+3
+4
+--- REMOVE ME FIRST AND THEN COMMIT ---
+5
+6
+7
+8
+--- REMOVE ME AFTER FIRST COMMIT AND THEN AMEND ---
